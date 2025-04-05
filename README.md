@@ -2,10 +2,11 @@
 
 Este proyecto es un scrapper desarrollado en Python con `requests` y `BeautifulSoup` que permite obtener productos del sitio [kingofthekongo.com.ar](https://kingofthekongo.com.ar), extrayendo información como:
 
-- Nombre del producto
+- ###Nombre de la página 
+- ###Una lista de productos con:
 - Precio
 - Foto del producto
-- Enlace al producto
+- Nombre del producto
 
 ## ¿Qué tiene de útil?
 
