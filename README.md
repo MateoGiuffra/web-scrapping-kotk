@@ -67,3 +67,8 @@ Además, el scrapper es adaptable a cualquier categoría del sitio: `https://kin
 ## Muestra
 ![Demo](show.gif)
 
+## 📬 Contacto
+[LinkedIn](https://linkedin.com/in/mateo-giuffra-023682289/) • [Gmail](matteogiuffrah40@gmail.com)
+
+> Cualquier consulta, duda o simplemente queres contactarme, podes usar alguno de los dos medios de arriba!
+
