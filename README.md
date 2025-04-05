@@ -63,4 +63,6 @@ Para practicar scraping real con estructuras de e-commerce, parsing de precios, 
 
 Además, el scrapper es adaptable a cualquier categoría del sitio: `https://kingofthekongo.com.ar/productos/`, lo cual lo hace reutilizable para distintos fines como análisis de precios, catalogación o inventarios.
 
+## Muestra
+![Demo](show.gif)
 
