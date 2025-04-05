@@ -15,7 +15,7 @@ Funciona con **cualquier página** de productos del dominio `https://kingoftheko
 ## Ejemplo de uso
 
 ```bash
-python scrapper.py
+python scrapping.py
 ```
 ## Ejemplo de salida
 ```bash
