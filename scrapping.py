@@ -78,8 +78,8 @@ class KongoScrapper:
 
 
 if __name__ == "__main__":
-    # URL = 'https://kingofthekongo.com.ar/shop/prendas1/remeras-y-boxy/?mpage=3'
-    URL = 'https://kingofthekongo.com.ar/shop/prendas1/remerones/'
+    URL = 'https://kingofthekongo.com.ar/shop/prendas1/remeras-y-boxy/?mpage=3'
+    # URL = 'https://kingofthekongo.com.ar/shop/prendas1/remerones/'
     scrapper = KongoScrapper()
     page = scrapper.start_scrapping(URL)
     print(page)
