@@ -24,7 +24,7 @@ class KongoScrapper:
         response = requests.get(url_product, headers=self.HEADERS)
         if response.status_code != 200:
             print("No image found, using default")
-            return self.DEFAULT_PHOTO_LINK
+            return self.DEFAULT_PHOTO_LINK 
         
         soup = BeautifulSoup(response.text, "html.parser")
         img = soup.find("img", "js-item-image")
