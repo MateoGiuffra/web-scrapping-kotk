@@ -1,0 +1,21 @@
+{
+  "title": "Comprar BEANIES en King of the Kongo",
+  "products": [
+    {},
+    {
+      "name": "Beanie Darkside Red",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/3baaa107-d1be-4d5e-bf1f-8757e6c31501-babe30363604dc3ceb17256773173625-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Darkside",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/3baaa107-d1be-4d5e-bf1f-8757e6c31501-babe30363604dc3ceb17256773173625-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Kongo",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/85c01901-7a61-45ec-b874-20e21bb8620e-8f185402a6e91d8afa17256773495789-1024-1024.jpg"
+    }
+  ]
+}

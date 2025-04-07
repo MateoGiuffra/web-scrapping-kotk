@@ -1,0 +1,26 @@
+{
+  "title": "Comprar BUZOS en King of the Kongo",
+  "products": [
+    {},
+    {
+      "name": "Buzo Active",
+      "price": "$84.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6b43a8f7-3659-4000-b4d0-3b5172add286-bb8706249dc8e25a1b17430886590583-1024-1024.jpg"
+    },
+    {
+      "name": "Buzo Summer Lime",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6b43a8f7-3659-4000-b4d0-3b5172add286-bb8706249dc8e25a1b17430886590583-1024-1024.jpg"
+    },
+    {
+      "name": "Buzo Nab Punk Lime",
+      "price": "$49.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/55685c4b-5fb0-4649-9428-884b11020fa4-7126bbdf6783e7ab3217425083231703-1024-1024.jpg"
+    },
+    {
+      "name": "Buzo NAB Blue",
+      "price": "$49.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a7dd1b7e-bcdc-43ca-8f31-a5e2a47fe949-e002865c36ec908e1e17424223802947-1024-1024.jpg"
+    }
+  ]
+}
