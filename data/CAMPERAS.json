@@ -1,0 +1,21 @@
+{
+  "title": "Comprar CAMPERAS en King of the Kongo",
+  "products": [
+    {},
+    {
+      "name": "Denim Jacket",
+      "price": "$129.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/4e5dd686-549f-4d8d-865a-550770dbd3e2-662cf48463ee61398917286056068707-1024-1024.jpg"
+    },
+    {
+      "name": "Gigi Jacket",
+      "price": "$98.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/f8756bdb-57b3-4217-b924-1adf471bb2d3-dbab472f6d9bc5004c17425767721187-1024-1024.jpg"
+    },
+    {
+      "name": "Zipper Jacket KOTK",
+      "price": "$169.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a91e335c-9a26-4e95-86b0-9608249d5cda-4b8db501baa15c418f17298035291361-1024-1024.jpg"
+    }
+  ]
+}
