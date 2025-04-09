@@ -52,19 +52,12 @@ class KongoScrapper:
             "photo": photo_link
         }
            
-    def get_file_title(self, title):
-        try:
-            pattern = r"[A-Z]+"
-            match = (re.search(pattern, title[1:]))
-            return match.group() if match else self.DEFAULT_TITLE
-        except Exception as e: 
-            print(f"Something was wrong while get_file_title {e}")
-            return self.DEFAULT_TITLE
             
     def start_scrapping_of(self, url):
         try:
             response = requests.get(url, headers=self.HEADERS)
             if response.status_code != 200:
+                print("Status code error", response.status_code)
                 return 
             self.good_requests += 1
             scrap = {
@@ -83,12 +76,48 @@ class KongoScrapper:
                 scrap["products"].append(self.get_product(item))
             return scrap
         except Exception as e:
-            print(f"Something was wrong {e}")
-            return {
-                "error": "Somewhing was wrong: {e}" 
-            }
+            print(f"Something was wrong while start_scrapping_of {e}")
+            
+    
+    def create_new_file(self, folder_name, file_name, content):
+        try: 
+            with open(f"data/{folder_name}/{file_name}.json", "x") as f:
+                    json.dump(content, f, indent=2)
+        except FileNotFoundError: 
+            os.mkdir(f"data/{folder_name}")
+            with open(f"data/{folder_name}/{file_name}.json", "x") as f:
+                    json.dump(content, f, indent=2)
+        except FileExistsError as last_file:
+            pattern = r"\d+"
+            actual_number = int((re.search(pattern, last_file.filename)).group())
+            next_number = str(actual_number + 1).zfill(3)
+            file_name = f"{folder_name}-{next_number}"
+            self.create_new_file(folder_name, file_name, content) 
 
-    def get_all_links(self):
+    def get_title_of(self, page_title):
+        try: 
+            if "%" in page_title: 
+                return "DESCUENTOS"
+            pattern = r"[A-Z]+"
+            match = re.search(pattern, page_title[1:])
+            if not match: 
+                return self.DEFAULT_TITLE
+            return match.group()
+        except Exception as e: 
+            print("Someting was wrong while get_title_of",e)
+            return self.DEFAULT_TITLE
+    
+    
+    def add_new_file(self, scrap):
+        try:
+    
+            folder_name = self.get_title_of(scrap["title"] )
+            file_name = f"{folder_name}-000"
+            self.create_new_file(folder_name, file_name, scrap)
+        except Exception as e: 
+            print(f"Something was wrong while get_file_title {e}")
+        
+    def get_all_products_links(self):
         response = requests.get(self.KONGO_URL, headers=self.HEADERS)
         if response.status_code != 200:
             return 
@@ -98,7 +127,7 @@ class KongoScrapper:
         for i in items:
             try:
                 link = i["href"]
-                if link: 
+                if link and any(word in link for word in ("shop", "new", "sale", "mujer")): 
                     links.append(link)
                     print(link) 
             except:
@@ -112,24 +141,18 @@ class KongoScrapper:
         except FileNotFoundError:
             os.mkdir("./data")    
         
-    def start_scrapping(self, clean_files=False):
+    def start_scrapping(self, clean_files=False, URLs=None):
         if clean_files: 
             self.delete_data_files()
         self.good_requests = 0
-        URLs = self.get_all_links()
+        URLs = self.get_all_products_links() if not URLs else URLs
         if not URLs:
             print("There aren't links.")
             return
-        
-        for i, url in enumerate(URLs):
+        for url in URLs:
             try:  
                 scrap = self.start_scrapping_of(url)
-                file_title = self.get_file_title(scrap["title"])
-                with open(f"data/{file_title}.json", "x") as f:
-                    json.dump(scrap, f, indent=2)
-            except FileExistsError: 
-                with open(f"data/{file_title + str(i)}.json", "x") as f:
-                    json.dump(scrap, f, indent=2)
+                self.add_new_file(scrap)
             except Exception as e: 
                 print(f"Something was wrong while start_scrapping: {e}")
                 continue
@@ -137,12 +160,7 @@ class KongoScrapper:
     
 
             
-# if __name__ == "__main__": 
-#     scrapper = KongoScrapper()
-#     scrapper.start_scrapping()
-
-# text = "//acdn-us.mitiendanube.com/stores/219/431/products/0809c78d-5d50-45bb-9070-3cb9f750505f-d6bba9ad356afedd6217346294756349-240-0.jpg 240w, //acdn-us.mitiendanube.com/stores/219/431/products/0809c78d-5d50-45bb-9070-3cb9f750505f-d6bba9ad356afedd6217346294756349-320-0.jpg 320w, //acdn-us.mitiendanube.com/stores/219/431/products/0809c78d-5d50-45bb-9070-3cb9f750505f-d6bba9ad356afedd6217346294756349-480-0.jpg 480w, //acdn-us.mitiendanube.com/stores/219/431/products/0809c78d-5d50-45bb-9070-3cb9f750505f-d6bba9ad356afedd6217346294756349-640-0.jpg 640w, //acdn-us.mitiendanube.com/stores/219/431/products/0809c78d-5d50-45bb-9070-3cb9f750505f-d6bba9ad356afedd6217346294756349-1024-1024.jpg 1024w"
-title = "titlePage"
-pattern = r"[A-Z]+"
-match = (re.search(pattern, title[1:]))
-print(match.group()) if match else print("nada")
+if __name__ == "__main__": 
+    scrapper = KongoScrapper()
+    scrapper.start_scrapping(clean_files=True)
+    
