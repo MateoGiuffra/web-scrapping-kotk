@@ -1,0 +1,25 @@
+{
+  "title": "Comprar FALDAS en King of the Kongo",
+  "products": [
+    {
+      "name": "Mini Kendall",
+      "price": "$109.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6e1cdd22-0268-4086-aef5-9ba0983749e3-ca06223eab95877afc17297075839471-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Gigi",
+      "price": "$67.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a42ac91d-f350-494a-8574-44bd11743f62-ef53633a9148046e7517425189402596-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Amy",
+      "price": "$53.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6e1cdd22-0268-4086-aef5-9ba0983749e3-ca06223eab95877afc17297075839471-1024-1024.jpg"
+    },
+    {
+      "name": "Pollera Cargo",
+      "price": "$65.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6e1cdd22-0268-4086-aef5-9ba0983749e3-ca06223eab95877afc17297075839471-1024-1024.jpg"
+    }
+  ]
+}

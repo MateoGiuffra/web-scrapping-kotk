@@ -1,0 +1,65 @@
+{
+  "title": "Comprar PRENDAS Y ACCESORIOS en King of the Kongo",
+  "products": [
+    {
+      "name": "Buzo Active",
+      "price": "$84.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/f27379e4-908a-4ca3-a051-e27cc7ddc0e9-2911f3250d4f20fac617370452734582-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Not a Brand",
+      "price": "$79.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8a8e36-ab7d-41fc-be62-1464d3ed8dd0-2fd2d0cbc5de88b6f017256710851843-1024-1024.jpg"
+    },
+    {
+      "name": "Remera Thirteen",
+      "price": "$44.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/ff39d7b4-74aa-44e0-9709-e160ec695b5f-5ab84a4c0f4fcb7cb017341241315314-1024-1024.png"
+    },
+    {
+      "name": "Bermuda V25 Black",
+      "price": "$59.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/c858cf7e-b197-4bd1-b688-55499f986def-c0d11a0b7f04d4db1817329043709916-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Punkd Red",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cd94a970-fdbc-4d38-8772-f8dd6ab8f371-935b8c31fedc58c06817335158164573-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Brown",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/bca20adc-472b-43d2-aef5-c8b9cce2bc58-fbb6be0fb5756cb87b17343816093557-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Green",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5e4a89e6-db08-43f9-a8b9-f4ded252629a-56b41e0c5f0937c16e17417961836132-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Blue",
+      "price": "$54.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/d0008682-5066-4e6a-b124-8af02b062f48-ad18193b14a7963e8317417960971132-1024-1024.jpg"
+    },
+    {
+      "name": "Remera Golf Black",
+      "price": "$44.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/8642d2c8-5e75-4350-8ee7-4d073d946ff7-1f77a13e4bcac7884317310215998897-1024-1024.jpg"
+    },
+    {
+      "name": "Tee Block White",
+      "price": "$29.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/0543ef5a-f561-4e77-96e2-47a1eecbda59-028b5c1eb479abd75817256719274767-1024-1024.jpg"
+    },
+    {
+      "name": "Tee Block Black",
+      "price": "$29.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9b7e179c-dd64-4a97-b0db-0d240d337912-d97b74c25d37727b4717395678842351-1024-1024.jpg"
+    },
+    {
+      "name": "Tee Golf Black",
+      "price": "$29.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/36488c62-0b5d-4874-8543-a1b37f49e4db-202a5cf567fb93c64f17298900266210-1024-1024.jpg"
+    }
+  ]
+}

@@ -27,7 +27,7 @@ class KongoScrapper:
             return self.DEFAULT_PHOTO_LINK 
         
         soup = BeautifulSoup(response.text, "html.parser")
-        img = soup.find("img", "js-item-image")
+        img = soup.find("img", "js-item-image") 
         
         if not img:
             print("No image found, using default")

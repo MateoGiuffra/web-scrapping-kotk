@@ -1,0 +1,65 @@
+{
+  "title": "Comprar ACCESORIOS en King of the Kongo",
+  "products": [
+    {
+      "name": "NAB Socks White",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8feeb0-61e6-4054-948e-ff36b2cee3ed-a55f5216e30a72bdb017442222891661-1024-1024.jpg"
+    },
+    {
+      "name": "Socks White",
+      "price": "$6.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2415kowh-a49b531d4086531c6317236574805480-1024-1024.jpg"
+    },
+    {
+      "name": "Top KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/40afba97-e821-4855-8727-fdbe2cb98dfb-4bca4d599d5e8067f617347334651164-1024-1024.jpg"
+    },
+    {
+      "name": "Top KOTK Black",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/82ff133e-ad74-4a92-8d72-11869539068b-a1e372816090e6bd9417256709553566-1024-1024.jpg"
+    },
+    {
+      "name": "Cap KK",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5982b3e0-64d3-4902-8d01-1c6a05d0c350-504dc476ea2c94419d17256741046251-1024-1024.png"
+    },
+    {
+      "name": "Cap 13",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cddc3b49-100c-4029-9d1d-86502b69eacd-0395f75a7820a3d25f17256741197299-1024-1024.png"
+    },
+    {
+      "name": "Bra Brand White #2",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/40afba97-e821-4855-8727-fdbe2cb98dfb-4bca4d599d5e8067f617347334651164-1024-1024.jpg"
+    },
+    {
+      "name": "Bra KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/40afba97-e821-4855-8727-fdbe2cb98dfb-4bca4d599d5e8067f617347334651164-1024-1024.jpg"
+    },
+    {
+      "name": "Top Brand White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/1726557e-277c-4d0e-80c5-3a1881e84319-f907652b24ece6167017364504337423-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Kongo",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5ed3d033-bfb9-43bd-b693-c13f5c69710e-da64b82a7a026757f817256773327315-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Darkside",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/3baaa107-d1be-4d5e-bf1f-8757e6c31501-babe30363604dc3ceb17256773173625-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Darkside Red",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/3baaa107-d1be-4d5e-bf1f-8757e6c31501-babe30363604dc3ceb17256773173625-1024-1024.jpg"
+    }
+  ]
+}

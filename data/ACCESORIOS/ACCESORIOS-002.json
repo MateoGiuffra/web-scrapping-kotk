@@ -1,0 +1,35 @@
+{
+  "title": "Comprar ACCESORIOS en King of the Kongo",
+  "products": [
+    {
+      "name": "Top KOTK Black",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/e3751e7b-b048-456e-8190-cab27e6a60cc-4deec134eff29432a217435349018565-1024-1024.png"
+    },
+    {
+      "name": "Top KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/40afba97-e821-4855-8727-fdbe2cb98dfb-4bca4d599d5e8067f617347334651164-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Darkside",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5ed3d033-bfb9-43bd-b693-c13f5c69710e-da64b82a7a026757f817256773327315-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Kongo",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5ed3d033-bfb9-43bd-b693-c13f5c69710e-da64b82a7a026757f817256773327315-1024-1024.jpg"
+    },
+    {
+      "name": "Beanie Darkside Red",
+      "price": "$21.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/3baaa107-d1be-4d5e-bf1f-8757e6c31501-babe30363604dc3ceb17256773173625-1024-1024.jpg"
+    },
+    {
+      "name": "Bra KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/82ff133e-ad74-4a92-8d72-11869539068b-a1e372816090e6bd9417256709553566-1024-1024.jpg"
+    }
+  ]
+}

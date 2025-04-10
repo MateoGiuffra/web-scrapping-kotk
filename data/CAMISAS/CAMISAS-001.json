@@ -1,0 +1,65 @@
+{
+  "title": "Comprar CAMISAS en King of the Kongo",
+  "products": [
+    {
+      "name": "Camisa Boxy Denim",
+      "price": "$74.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/58ddedbc-3d65-4ea2-a1d7-78f1c7e374dc-7b808b921a304c735717256737095080-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Not a Brand",
+      "price": "$79.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/ad5be57b-1a77-4e4a-84ba-4e392d0a2e6e-0707d829a10b885ad217256737695194-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Punkd Red",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/d0008682-5066-4e6a-b124-8af02b062f48-ad18193b14a7963e8317417960971132-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Brown",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/58ddedbc-3d65-4ea2-a1d7-78f1c7e374dc-7b808b921a304c735717256737095080-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Blue",
+      "price": "$54.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/52a1850e-d4f4-4101-853e-daa4761cc85b-1d1ab6d4e8e9db7ae017417836991782-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Graffiti Green",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8a8e36-ab7d-41fc-be62-1464d3ed8dd0-2fd2d0cbc5de88b6f017256710851843-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Line",
+      "price": "$69.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/ee233f2d-6b35-4e12-9e3e-cf18bda4e8f4-a4c4910f53b89ecb2e17394798696791-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Boxy Wave",
+      "price": "$77.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cd94a970-fdbc-4d38-8772-f8dd6ab8f371-935b8c31fedc58c06817335158164573-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa On And Off",
+      "price": "$69.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5e4a89e6-db08-43f9-a8b9-f4ded252629a-56b41e0c5f0937c16e17417961836132-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Santorini",
+      "price": "$36.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/58ddedbc-3d65-4ea2-a1d7-78f1c7e374dc-7b808b921a304c735717256737095080-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Barcelona",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8a8e36-ab7d-41fc-be62-1464d3ed8dd0-2fd2d0cbc5de88b6f017256710851843-1024-1024.jpg"
+    },
+    {
+      "name": "Camisa Coconout",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2635749b-660c-413d-95fb-074906dfdb1d-a4cfad4c9bcbd011f617417964440598-1024-1024.jpg"
+    }
+  ]
+}

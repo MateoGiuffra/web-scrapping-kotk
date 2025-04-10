@@ -1,0 +1,65 @@
+{
+  "title": "Comprar UNDERWEAR en King of the Kongo",
+  "products": [
+    {
+      "name": "NAB Socks White",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6427f90f-841a-4cee-9f66-556c1dd879a3-c72901c22ecdb00c1f17425050664603-1024-1024.jpg"
+    },
+    {
+      "name": "Boxer Stripes White",
+      "price": "$27.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/33f5080c-2172-45fb-911d-b7335003b729-7b9b08221b536d132117284901490291-1024-1024.jpg"
+    },
+    {
+      "name": "Bra Brand White #2",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/8cc53b4b-3e69-4c2b-9529-e68b3d89b4b1-2a3710213a03f8000417435349150035-1024-1024.jpg"
+    },
+    {
+      "name": "Bra KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2a379654-3fb2-4295-811c-441aa5e12244-bda86f2e9b094bce0617417960875110-1024-1024.jpg"
+    },
+    {
+      "name": "Top Brand White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/579b6796-3fdb-4710-9931-dd34d21b09ce-2aa46aeff18f574c7217298900756694-1024-1024.jpg"
+    },
+    {
+      "name": "Top KOTK Black",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9707271b-1893-4a34-a6e7-30e17571e312-7d132a548f4a76499717347334321710-1024-1024.jpg"
+    },
+    {
+      "name": "Top KOTK White",
+      "price": "$24.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/d55c87d0-2bd2-4aef-a5f8-f6865896c664-90781c0a04e6c4890417256732564660-1024-1024.jpg"
+    },
+    {
+      "name": "Socks White",
+      "price": "$6.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cb2daa48-6ed3-4adf-9441-cd2d7f14ee99-3d7c01b8c50159d79f17370709325807-1024-1024.jpg"
+    },
+    {
+      "name": "Boxer Brand Black",
+      "price": "$27.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/33f5080c-2172-45fb-911d-b7335003b729-7b9b08221b536d132117284901490291-1024-1024.jpg"
+    },
+    {
+      "name": "Boxer Brand White",
+      "price": "$27.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/c7f31bfc-b413-4a20-babd-18733d3e647a-909a785e694c6bf84a17284901350058-1024-1024.png"
+    },
+    {
+      "name": "Boxer Kotk Black Black",
+      "price": "$27.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a081cc58-fb64-45ea-8c75-76322f50848d-acfdf1dd7fe20d40a617289240666604-1024-1024.png"
+    },
+    {
+      "name": "Boxer Kotk White",
+      "price": "$27.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/33f5080c-2172-45fb-911d-b7335003b729-7b9b08221b536d132117284901490291-1024-1024.jpg"
+    }
+  ]
+}

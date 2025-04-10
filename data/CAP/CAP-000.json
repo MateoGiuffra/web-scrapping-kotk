@@ -1,0 +1,20 @@
+{
+  "title": "Comprar CAP en King of the Kongo",
+  "products": [
+    {
+      "name": "Cap KK",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/f1851266-0052-4a83-8634-066e7f479c36-6388e7cbb48b8fc0eb17442224621259-1024-1024.png"
+    },
+    {
+      "name": "Cap 13",
+      "price": "$34.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cddc3b49-100c-4029-9d1d-86502b69eacd-0395f75a7820a3d25f17256741197299-1024-1024.png"
+    },
+    {
+      "name": "Cap Brand",
+      "price": "$39.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2480wblu-9e56675cd3561fabf217129605256946-1024-1024.jpg"
+    }
+  ]
+}

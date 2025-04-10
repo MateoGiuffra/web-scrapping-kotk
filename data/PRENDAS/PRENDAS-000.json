@@ -1,0 +1,65 @@
+{
+  "title": "Comprar PRENDAS en King of the Kongo",
+  "products": [
+    {
+      "name": "Remera Legacy Nab",
+      "price": "$59.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/eae789f4-6ebf-4ee5-9452-0ede20a03e95-dccd9c535df656b2b217430826528221-1024-1024.jpg"
+    },
+    {
+      "name": "Remera Kongo Retro",
+      "price": "$59.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2411rfwh-892206df40a5afec6717123473678126-1024-1024.jpg"
+    },
+    {
+      "name": "Jean Mega Baggy",
+      "price": "$129.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a1b375cd-ccc8-4bfe-b28b-f436a2fb3ef7-8d9e3472032cceb79217424224532414-1024-1024.png"
+    },
+    {
+      "name": "Tee Kongo Retro Black",
+      "price": "$44.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/7f0925dd-fa7c-4bb5-8824-b67370789f4f-3af41f3247c9f2dc0317425688050808-1024-1024.jpg"
+    },
+    {
+      "name": "Tee Kongo Retro White",
+      "price": "$44.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/43cecc65-1099-42e8-9bbd-0eb8b56290cc-67e8568fae7a090c7117425688367568-1024-1024.jpg"
+    },
+    {
+      "name": "Buzo Team Grey",
+      "price": "$144.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a1b375cd-ccc8-4bfe-b28b-f436a2fb3ef7-8d9e3472032cceb79217424224532414-1024-1024.png"
+    },
+    {
+      "name": "Buzo Team Black",
+      "price": "$144.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/bf59580c-2d86-4156-bcbf-85272758cacf-1b5bf0116b8dea0e9117370454286307-1024-1024.jpg"
+    },
+    {
+      "name": "Remera ML Kim Black",
+      "price": "$47.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a82cef00-76ed-491c-9d5d-78be3d29f68f-95d3d72f583d41085117425016683919-1024-1024.jpg"
+    },
+    {
+      "name": "Tee Le Bitch",
+      "price": "$44.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/71b958ce-7469-419d-9b77-b50949765847-f53c83b96f147ee8c117425688728100-1024-1024.jpg"
+    },
+    {
+      "name": "Pant Kendall",
+      "price": "$123.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2480wblu-9e56675cd3561fabf217129605256946-1024-1024.jpg"
+    },
+    {
+      "name": "Remera ML Kim Off White",
+      "price": "$47.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2411rfwh-892206df40a5afec6717123473678126-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Kendall",
+      "price": "$109.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6e1cdd22-0268-4086-aef5-9ba0983749e3-ca06223eab95877afc17297075839471-1024-1024.jpg"
+    }
+  ]
+}

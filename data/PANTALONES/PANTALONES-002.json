@@ -1,0 +1,35 @@
+{
+  "title": "Comprar PANTALONES Y FALDAS en King of the Kongo",
+  "products": [
+    {
+      "name": "Pant Kendall",
+      "price": "$123.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5a8c34b2-445e-455c-a900-026bb0878eff-bd825e9467526226af17256774738943-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Kendall",
+      "price": "$109.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/6e1cdd22-0268-4086-aef5-9ba0983749e3-ca06223eab95877afc17297075839471-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Gigi",
+      "price": "$67.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/a42ac91d-f350-494a-8574-44bd11743f62-ef53633a9148046e7517425189402596-1024-1024.jpg"
+    },
+    {
+      "name": "Mini Amy",
+      "price": "$53.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/d810f834-8d8e-4e2f-a64e-b978fd19b747-d3f6ce43b7a856c68417417964939550-1024-1024.jpg"
+    },
+    {
+      "name": "Parachute Snake Green",
+      "price": "$49.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/47d82be8-faf5-49c9-ae9c-3c440aa2b3b0-e052c5509ca1ba357c17381854729082-1024-1024.jpg"
+    },
+    {
+      "name": "Pantalon Ibiza",
+      "price": "$42.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/b280664c-a2ae-4958-8def-35d1bc8698ab-252b9b495603d808e317256706195585-1024-1024.jpg"
+    }
+  ]
+}

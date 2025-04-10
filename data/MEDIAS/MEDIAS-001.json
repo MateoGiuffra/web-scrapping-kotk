@@ -1,0 +1,25 @@
+{
+  "title": "Comprar MEDIAS en King of the Kongo",
+  "products": [
+    {
+      "name": "NAB Socks White",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8feeb0-61e6-4054-948e-ff36b2cee3ed-a55f5216e30a72bdb017442222891661-1024-1024.jpg"
+    },
+    {
+      "name": "Socks Classic White",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2301nswh1-4dba65f50ec9303e8816899644013944-1024-1024.jpg"
+    },
+    {
+      "name": "Socks Essential Black",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/9e8feeb0-61e6-4054-948e-ff36b2cee3ed-a55f5216e30a72bdb017442222891661-1024-1024.jpg"
+    },
+    {
+      "name": "Socks Classic Black",
+      "price": "$9.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2301nswh1-4dba65f50ec9303e8816899644013944-1024-1024.jpg"
+    }
+  ]
+}

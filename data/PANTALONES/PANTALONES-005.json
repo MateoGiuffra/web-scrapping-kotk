@@ -1,0 +1,65 @@
+{
+  "title": "Comprar PANTALONES en King of the Kongo",
+  "products": [
+    {
+      "name": "Pant Kendall",
+      "price": "$123.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/c94acc65-0a04-431f-b878-435291065b3b-f7dfb29c508078433f17256714991518-1024-1024.jpg"
+    },
+    {
+      "name": "New Pant Taylor",
+      "price": "$119.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/52688961-07f1-4545-bd81-68c280fa0acd-ca5fa7c21a9dd076e017425937248186-1024-1024.jpg"
+    },
+    {
+      "name": "Parachute Wash Black",
+      "price": "$108.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/5a8c34b2-445e-455c-a900-026bb0878eff-bd825e9467526226af17256774738943-1024-1024.jpg"
+    },
+    {
+      "name": "Pant Skater",
+      "price": "$119.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2480wblu-9e56675cd3561fabf217129605256946-1024-1024.jpg"
+    },
+    {
+      "name": "Baggy Carpenter Black",
+      "price": "$109.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/35f68436-6124-49b8-a350-319a04c1f7d3-180356020ce200047817380917360856-1024-1024.jpg"
+    },
+    {
+      "name": "Jog-Over Melange",
+      "price": "$75.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/1474fe6e-9b0f-4c37-81d6-0b4a6717e528-922cfb8ab54cba6de517256741861847-1024-1024.jpg"
+    },
+    {
+      "name": "Jogg Over Brown",
+      "price": "$90.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/b280664c-a2ae-4958-8def-35d1bc8698ab-252b9b495603d808e317256706195585-1024-1024.jpg"
+    },
+    {
+      "name": "Jog Over Black",
+      "price": "$106.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/15674119-48f8-4e0d-b5c3-de7fe79e2fd8-9f6e14daaf055575be17425977596196-1024-1024.jpg"
+    },
+    {
+      "name": "Jog Over Off White",
+      "price": "$106.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/c94acc65-0a04-431f-b878-435291065b3b-f7dfb29c508078433f17256714991518-1024-1024.jpg"
+    },
+    {
+      "name": "Jog-Over Premium Suede",
+      "price": "$75.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/cf93bda5-2d52-4c07-8215-6604ce6a5034-ed1feb9a8e44d4061717304043282516-1024-1024.jpg"
+    },
+    {
+      "name": "Jog-Over Grey",
+      "price": "$95.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/1474fe6e-9b0f-4c37-81d6-0b4a6717e528-922cfb8ab54cba6de517256741861847-1024-1024.jpg"
+    },
+    {
+      "name": "Carpenter Pant Black",
+      "price": "$108.990",
+      "photo": "https://acdn-us.mitiendanube.com/stores/219/431/products/2480wblu-9e56675cd3561fabf217129605256946-1024-1024.jpg"
+    }
+  ]
+}
