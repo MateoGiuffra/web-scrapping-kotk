@@ -1,53 +1,53 @@
 # KongoScrapper
 
-**KongoScrapper** es un scraper hecho en Python que extrae información de productos del sitio [kingofthekongo.com.ar](https://kingofthekongo.com.ar/), guardando los datos en archivos `.json` estructurados. Este proyecto puede ser útil para análisis de precios, control de stock, comparadores u otros fines automatizados.
+**KongoScrapper** is a scraper built in Python that extracts product information from the site kingofthekongo.com.ar, saving the data in structured .json files. This project can be useful for price analysis, stock monitoring, product comparisons, or other automated purposes.
 
 ---
 
-## 🚀 ¿Qué hace?
-- Navega por todas las secciones del sitio.
-- Extrae el título de la sección y los productos listados.
-- Por cada producto obtiene:
-  - Nombre
-  - Precio
-  - Imagen
-- Guarda los datos en formato JSON en la carpeta `data/`.
+## 🚀 ¿What does it do?
+- Navigate through all site sections. 
+- Extracts the section title and listed products.
+- For each product, it obtains:
+  - Name
+  - Price
+  - Image
+- Saves all data in the folder `data/` with JSON format.
 
 ---
 
-## ⚙️ Instalación y uso
+## ⚙️ Installation
 
-1. Cloná el repositorio:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/tuusuario/KongoScrapper.git
 cd KongoScrapper
 ```
 
-2. Instalá las dependencias:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-> Requisitos principales:
+> Main Requirements:
 > - `requests`
 > - `beautifulsoup4` 
 
-3. Ejecutá el script principal:
+3. Run main script:
 
 ```python
 from kongo_scrapper import KongoScrapper
 
 scraper = KongoScrapper()
-scraper.start_scrapping(clean_files=True)  # Pone clean_files=True si querés eliminar archivos anteriores
+scraper.start_scrapping(clean_files=True)  # Set clean_files=True if you want delete all files from 'data'
 ```
 
-> Todos los archivos `.json` se guardarán en la carpeta `/data`.
+> All `.json` files will be save in `/data` folder.
 
 ---
 
-## 📄 Ejemplo de salida
+## 📄 Example: 
 
 ```json
 {
@@ -67,8 +67,8 @@ scraper.start_scrapping(clean_files=True)  # Pone clean_files=True si querés el
 }
 ```
 
-## 📬 Contacto
+## 📬 Contact
 
 [LinkedIn](https://linkedin.com/in/mateo-giuffra-023682289/) • [Gmail](mailto:matteogiuffrah40@gmail.com)
 
-> Cualquier consulta, duda o simplemente querés contactarme, podés usar alguno de los dos medios de arriba.
+> For any questions, doubts, or if you'd just like to reach out, feel free to use either of the contacts above.
